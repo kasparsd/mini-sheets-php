@@ -43,7 +43,7 @@ class XlsxBuilder extends AbstractBuilder {
 		}
 
 		if ( ! isset( $string_pos[ $string ] ) ) {
-			$string_pos[ $string ] = array_search( $string, array_keys( $this->shared_strings ) );
+			$string_pos[ $string ] = array_search( $string, array_keys( $this->shared_strings ), true );
 		}
 
 		return $string_pos[ $string ];
