@@ -21,7 +21,7 @@ See examples for how to use it.
 
 ## Contribute
 
-All contributions are welcome! Please create an issue or open a pull request with the suggested changes.
+All contributions are welcome! Please create [an issue](https://github.com/kasparsd/mini-sheets-php/issues/new) or [open a pull request](https://github.com/kasparsd/mini-sheets-php/pulls) with the suggested changes.
 
 
 ## Credits
