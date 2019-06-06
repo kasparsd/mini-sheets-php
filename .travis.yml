@@ -10,6 +10,11 @@ install:
 script:
   - composer lint
 
+# Pull requests are built by default.
+branches:
+  only:
+  - master
+
 notifications:
   email: false
 
