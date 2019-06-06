@@ -1,5 +1,7 @@
 # MiniSheets
 
+[![Build Status](https://travis-ci.com/kasparsd/mini-sheets-php.svg?branch=master)](https://travis-ci.com/kasparsd/mini-sheets-php)
+
 Extremely minimal and limited PHP library for creating the most basic Office Open XML and Microsoft Excel XLSX files.
 
 Created as a learning excerise for creating the most basic possible XLSX file. See [this blog post for the origin story](https://kaspars.net/blog/excel-xlsx-xml-php).
