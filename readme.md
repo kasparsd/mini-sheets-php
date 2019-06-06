@@ -18,7 +18,7 @@ Install it as a Composer dependency:
 
 	composer require kasparsd/mini-sheets-php
 
-See examples for how to use it.
+See [examples](examples) for how to use it.
 
 
 ## Contribute
