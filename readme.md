@@ -7,7 +7,7 @@ Created as a learning excerise for creating the most basic possible XLSX file. S
 
 ## Requirements
 
-- [`ZipArchive`](https://www.php.net/manual/en/class.ziparchive.php) for creating the XLSX file which is actually a ZIP file.
+- [`ZipArchive`](https://www.php.net/manual/en/class.ziparchive.php) for creating XLSX files which are actually ZIP files (TODO: add support for any ZIP library).
 
 
 ## Usage
