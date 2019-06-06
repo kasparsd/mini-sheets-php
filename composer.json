@@ -14,5 +14,13 @@
       "kasparsd\\MiniSheets\\": "src/"
     }
   },
-  "require": {}
+  "require": {},
+  "require-dev": {
+    "wp-coding-standards/wpcs": "^2.1"
+  },
+  "scripts": {
+    "lint": [
+      "phpcs ."
+    ]
+  }
 }
